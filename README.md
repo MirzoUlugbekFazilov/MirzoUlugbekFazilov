@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building full-stack applications powered by AI<br>🌱 I’m currently learning AI-Automation<br>💬 Let's get connected
+🔭 I love building full-stack applications powered by AI<br>🌱 I am currently learning AI-Automation<br>💬 Let's get connected
 
 
 ## 🌐 Social Media:
