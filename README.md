@@ -1,100 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mirzo-Ulugbek Fazilov</h1>
-<h3 align="center">Full-Stack Developer focused on AI Systems</h3>
+<h3>Welcome!</h3>
+
+Hey there! I'm <b>Mirzo-Ulugbek Fazilov</b>, a full-stack developer focused on building AI-powered applications.
+
+<br><br>
+
+<h3>About Me</h3>
+
+<ul>
+  <li>Building full-stack apps with real-world use cases</li>
+  <li>Currently learning <b>AI automation systems</b></li>
+  <li>Interested in backend scalability and system design</li>
+  <li>I value clean, functional, and efficient solutions</li>
+  <li>Reach me: <b>mirzoulugbekfazilov@gmail.com</b></li>
+  <li>
+    Connect:
+    <a href="https://linkedin.com/in/mirzo-ulugbek-fazilov-a90b9a309/">LinkedIn</a> ·
+    <a href="https://instagram.com/mirzoulugbek.fazilov">Instagram</a> ·
+    <a href="https://youtube.com/@mirzoulugbekfazilov">YouTube</a>
+  </li>
+</ul>
+
+<br>
+
+<h3>Tech Stack</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,flask,mysql,postgres" />
+</p>
+
+<br>
+
+<h3>Stats</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Full-stack+developer;Learning+AI+automation+systems" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirzoUlugbekFazilov&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzoUlugbekFazilov&layout=compact" height="150"/>
 </p>
 
----
+<br>
 
-## 🚀 About Me
+<h3>Current Focus</h3>
 
-- I build **AI-powered full-stack applications**
-- Currently focused on **AI automation & real-world systems**
-- Interested in **scalable backend architecture**
-
----
-
-## 🧠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,sass,bootstrap" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,render" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzoUlugbekFazilov&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzoUlugbekFazilov&layout=compact&theme=default" height="150"/>
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirzoUlugbekFazilov&theme=github-compact" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/mirzoulugbek.fazilov">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/mirzo-ulugbek-fazilov-a90b9a309/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://tiktok.com/@mirzoulugbek.fazilov">
-    <img src="https://skillicons.dev/icons?i=tiktok" />
-  </a>
-  <a href="https://youtube.com/@mirzoulugbekfazilov">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-</p>
-
----
-
-## ⚡ Current Focus
-
-- Building **AI-powered applications**
-- Automating workflows with AI
-- Improving backend scalability
-
----
-
-## ⚠️ Important
-
-This README looks good, but it won’t carry you.
-
-To actually stand out:
-- Add **live project links**
-- Show **real users / results**
-- Demonstrate **one deep skill**, not 20 shallow ones
-
-If someone clicks your profile and finds no strong projects, all this animation becomes irrelevant.
+<ul>
+  <li>AI-powered applications</li>
+  <li>Automation workflows</li>
+  <li>Improving backend architecture</li>
+</ul>
