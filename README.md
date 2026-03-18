@@ -1,6 +1,19 @@
-# 💫 About Me:
+# 💫 Welcome!
 🔭 I love building full-stack applications powered by AI<br>🌱 I am currently learning AI-Automation<br>💬 Let's get connected
 
+
+Hey there! My name is Gnanavel Premnath, studying computer science. Besides coding, I do VFX and 3D animations!
+
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" />
+
+<h3>about me</h3>
+
+- i love food
+- always down to talk about horror movies
+- fun-fact: i am def easily distracted by pixel arts
+- i am currently learning visual computing and image manipulation
+
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
 
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirzoulugbek.fazilov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirzo-ulugbek-fazilov-a90b9a309/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mirzoulugbek.fazilov) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mirzoulugbekfazilov) 
