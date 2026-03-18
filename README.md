@@ -2,15 +2,17 @@
 
 # Mirzo-Ulugbek Fazilov
 
-### Full-Stack Developer · AI-Focused Builder
-
-*I build full-stack applications powered by AI, with a focus on practical automation and scalable systems.*
-
 </div>
 
 ---
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" width="320"/>
+
+### 👋 About Me
+
+I'm a Full-Stack Developer with a strong focus on building AI-powered applications that solve real problems. I specialize in end-to-end systems — from scalable backends to responsive frontends — with a growing expertise in AI automation workflows. Currently deepening my skills in AI-driven architecture and real-world deployment at scale.
+
+<br>
 
 ### 🧠 Focus
 
@@ -26,7 +28,7 @@
 - Automation systems that reduce manual workflows
 - Improving system design and backend scalability
 
-<br><br><br>
+<br><br>
 
 ---
 
